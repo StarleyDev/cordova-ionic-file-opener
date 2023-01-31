@@ -1,9 +1,9 @@
 {
-  "name": "cpfo2-rm-req-install-app",
-  "version": "3.0.5",
+  "name": "@starley/cpfo2-rm-req-install-app",
+  "version": "3.0.6",
   "description": "A File Opener Plugin for Cordova. (The Fork Version)",
   "cordova": {
-    "id": "cpfo2-rm-req-install-app",
+    "id": "@starley/cpfo2-rm-req-install-app",
     "platforms": [
       "android",
       "ios",
@@ -26,7 +26,8 @@
     "cordova": ">=6.0.0"
   },
   "author": {
-    "name": "starlleycom@gmail.com"
+    "name": "Starley Cazorla",
+    "email": "starlleycom@gmail.com"
   },
   "license": "MIT",
   "bugs": {
